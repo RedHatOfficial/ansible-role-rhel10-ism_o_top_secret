@@ -97,7 +97,6 @@ chronyd_specify_remote_server: true
 configure_crypto_policy: true
 configure_kerberos_crypto_policy: true
 configure_opensc_card_drivers: true
-configure_ssh_crypto_policy: true
 configure_strategy: true
 dir_perms_world_writable_sticky_bits: true
 disable_host_auth: true
@@ -139,6 +138,7 @@ package_opensc_installed: true
 package_pcsc_lite_ccid_installed: true
 package_pcsc_lite_installed: true
 package_rsyslog_installed: true
+package_sequoia_sq_installed: true
 package_squid_removed: true
 package_subscription_manager_installed: true
 package_sudo_installed: true
