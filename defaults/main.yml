@@ -137,6 +137,7 @@ package_libdnf_plugin_subscription_manager_installed: true
 package_opensc_installed: true
 package_pcsc_lite_ccid_installed: true
 package_pcsc_lite_installed: true
+package_rsyslog_gnutls_installed: true
 package_rsyslog_installed: true
 package_sequoia_sq_installed: true
 package_squid_removed: true
@@ -166,6 +167,7 @@ service_avahi_daemon_disabled: true
 service_chronyd_enabled: true
 service_fapolicyd_enabled: true
 service_firewalld_enabled: true
+service_kdump_disabled: true
 service_pcscd_enabled: true
 service_rsyslog_enabled: true
 service_snmpd_disabled: true
